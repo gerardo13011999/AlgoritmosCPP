@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1550853944 source:d:\progra 2\rusa\main.cpp
+	<iostream>
+	"rusa.h"
+	<cctype>
+
+1550853336 source:d:\progra 2\rusa\rusa.cpp
+	"rusa.h"
+	<iostream>
+
+1550853386 d:\progra 2\rusa\rusa.h
+

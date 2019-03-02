@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550208879 source:c:\users\linux\documents\gerardo\ejercicio9\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

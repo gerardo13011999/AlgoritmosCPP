@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\linux\documents\algoritmos\estudiantes\main.cpp
+	<iostream>
+
+1551675741 source:c:\users\linux\documents\algoritmos\estudiantes\estudiante.cpp
+	"estudiante.h"
+
+1551675770 c:\users\linux\documents\algoritmos\estudiantes\estudiante.h
+	<string.h>
+	<iostream>
+

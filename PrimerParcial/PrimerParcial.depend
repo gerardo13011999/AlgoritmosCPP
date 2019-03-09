@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552064324 source:d:\progra 2\primerparcial\main.cpp
+	<iostream>
+	"Trabajador.h"
+
+1552064458 source:d:\progra 2\primerparcial\trabajador.cpp
+	"Trabajador.h"
+
+1552064224 d:\progra 2\primerparcial\trabajador.h
+	<string.h>
+	<iostream>
+

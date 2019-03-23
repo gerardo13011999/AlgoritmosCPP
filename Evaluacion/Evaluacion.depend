@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1553267932 source:d:\laboratorio\evaluacion\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Fecha.h"
+
+1553012508 source:d:\laboratorio\evaluacion\fecha.cpp
+	"Fecha.h"
+
+1553013212 source:d:\laboratorio\evaluacion\producto.cpp
+	"Producto.h"
+
+1553285306 source:d:\laboratorio\evaluacion\cliente.cpp
+	"Cliente.h"
+
+1553374492 source:f:\laboratorio\evaluacion\cliente.cpp
+	"Cliente.h"
+
+1553375518 source:f:\laboratorio\evaluacion\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Fecha.h"
+
+1553013212 source:f:\laboratorio\evaluacion\producto.cpp
+	"Producto.h"
+
+1553012508 source:f:\laboratorio\evaluacion\fecha.cpp
+	"Fecha.h"
+
+1553012496 f:\laboratorio\evaluacion\fecha.h
+
+1553374462 f:\laboratorio\evaluacion\producto.h
+	<iostream>
+	"Fecha.h"
+
+1553374462 f:\laboratorio\evaluacion\cliente.h
+	<iostream>
+	"Producto.h"
+
+1553285306 source:e:\laboratorio\evaluacion\cliente.cpp
+	"Cliente.h"
+
+1553285280 e:\laboratorio\evaluacion\cliente.h
+	<iostream>
+	"Producto.h"
+
+1553012944 e:\laboratorio\evaluacion\producto.h
+	<iostream>
+	"Fecha.h"
+
+1553012496 e:\laboratorio\evaluacion\fecha.h
+
+1553012508 source:e:\laboratorio\evaluacion\fecha.cpp
+	"Fecha.h"
+
+1553013212 source:e:\laboratorio\evaluacion\producto.cpp
+	"Producto.h"
+
+1553293730 source:e:\laboratorio\evaluacion\main.cpp
+	<iostream>
+	"Cliente.h"
+
+1553285280 d:\laboratorio\evaluacion\cliente.h
+	<iostream>
+	"Producto.h"
+
+1553012944 d:\laboratorio\evaluacion\producto.h
+	<iostream>
+	"Fecha.h"
+
+1553012496 d:\laboratorio\evaluacion\fecha.h
+

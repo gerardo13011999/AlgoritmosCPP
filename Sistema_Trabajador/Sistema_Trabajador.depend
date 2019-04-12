@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1555076108 source:c:\users\linux\desktop\sistema_trabajador\main.cpp
+	"Persona.h"
+	"Trabajador.h"
+	"TrabajadorTiempoCompleto.h"
+	"TrabajadorPorHora.h"
+	<stdlib.h>
+	<iostream>
+
+1555046884 c:\users\linux\desktop\sistema_trabajador\persona.h
+	<iostream>
+
+1555046909 c:\users\linux\desktop\sistema_trabajador\trabajador.h
+	"Persona.h"
+
+1555075899 c:\users\linux\desktop\sistema_trabajador\trabajadortiempocompleto.h
+	"Trabajador.h"
+
+1555075899 c:\users\linux\desktop\sistema_trabajador\trabajadorporhora.h
+	"Trabajador.h"
+
+1555089156 source:d:\progra 2\sistema_trabajador\main.cpp
+	"Persona.h"
+	"Trabajador.h"
+	"TrabajadorTiempoCompleto.h"
+	"TrabajadorPorHora.h"
+	<stdlib.h>
+	<iostream>
+
+1555046886 d:\progra 2\sistema_trabajador\persona.h
+	<iostream>
+
+1555085950 d:\progra 2\sistema_trabajador\trabajador.h
+	"Persona.h"
+
+1555087248 d:\progra 2\sistema_trabajador\trabajadortiempocompleto.h
+	"Trabajador.h"
+
+1555084092 d:\progra 2\sistema_trabajador\trabajadorporhora.h
+	"Trabajador.h"
+

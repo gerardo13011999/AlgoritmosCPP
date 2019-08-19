@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1565749063 source:c:\users\a24-28\documents\listas\main.cpp
+	"Lista.h"
+	<windows.h>
+	<iostream>
+
+1565749101 c:\users\a24-28\documents\listas\lista.h
+	<cstddef>
+	"Nodo.h"
+	<iostream>
+
+1565747192 c:\users\a24-28\documents\listas\nodo.h
+	<cstddef>
+	"Estudiante.h"
+
+1565747372 c:\users\a24-28\documents\listas\estudiante.h
+	<iostream>
+
+1566203361 source:c:\users\linux\documents\algoritmos\listas_trabajador\main.cpp
+	"Lista.h"
+	<windows.h>
+	<iostream>
+
+1566203552 c:\users\linux\documents\algoritmos\listas_trabajador\lista.h
+	<cstddef>
+	"Nodo.h"
+	<iostream>
+
+1565747194 c:\users\linux\documents\algoritmos\listas_trabajador\nodo.h
+	<cstddef>
+	"Estudiante.h"
+
+1565747374 c:\users\linux\documents\algoritmos\listas_trabajador\estudiante.h
+	<iostream>
+

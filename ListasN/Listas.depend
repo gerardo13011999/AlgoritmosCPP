@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565750832 source:c:\users\linux\documents\algoritmos\listas\main.cpp
+	"Lista.h"
+	<iostream>
+
+1565750778 c:\users\linux\documents\algoritmos\listas\lista.h
+	<cstddef>
+	"Nodo.h"
+	<iostream>
+
+1565745518 c:\users\linux\documents\algoritmos\listas\nodo.h
+	<cstddef>
+

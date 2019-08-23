@@ -30,7 +30,12 @@ class ListaDoble {
             this->elemento = NULL;
         }
         ~ListaDoble() {
-
+            this->Inicio();
+            while (this->elemento){
+                Nodo *aux = this->elemento;
+                this->elemento = this->elemento->Siguiente;
+                delete aux;
+            }
         }
         void Insertar(int v) {
             Nodo *nuevo = new Nodo(v);

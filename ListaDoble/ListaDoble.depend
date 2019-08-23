@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1566557444 source:c:\users\linux\documents\algoritmos\listadoble\main.cpp
+1566558376 source:c:\users\linux\documents\algoritmos\listadoble\main.cpp
 	<cstdlib>
 	"ListaDoble.h"
 	<iostream>
 
-1566557473 c:\users\linux\documents\algoritmos\listadoble\listadoble.h
+1566558425 c:\users\linux\documents\algoritmos\listadoble\listadoble.h
 	"Nodo.h"
 	<iostream>
 

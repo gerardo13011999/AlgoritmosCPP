@@ -14,5 +14,8 @@ int main()
     lst.Modificar(3, 7);
     lst.Eliminar(2);
     lst.Mostrar(1);
+    lst.~ListaDoble();
+    lst.Mostrar(1);
+    lst.Modificar(2, 9);
     return 0;
 }
